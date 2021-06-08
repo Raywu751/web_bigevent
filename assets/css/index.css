@@ -51,3 +51,6 @@ iframe {
     color: #fff;
     margin-right: 10px;
 }
+a {
+    transition: none!important;
+}
